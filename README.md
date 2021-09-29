@@ -1,4 +1,4 @@
-## Build Dashboards with Dash 
+## Build Dashboards with Dash 2.0
 
 This repo contains starter code for some of the dashboard examples provided py plotly.
 
