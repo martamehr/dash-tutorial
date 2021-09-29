@@ -5,8 +5,7 @@
 
 import dash
 from dash import dcc
-import dash_html_components as html
-
+from dash import html
 # visit this site to see all component https://dash.plotly.com/dash-core-components
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
