@@ -1,6 +1,6 @@
 import dash
 from dash import dcc
-import dash_html_components as html
+from dash import html
 
 print(dcc.__version__) # 0.6.0 or above is required
 
