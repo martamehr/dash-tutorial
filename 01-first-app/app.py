@@ -4,7 +4,7 @@
 # visit http://127.0.0.1:8050/ in your web browser.
 
 import dash
-import dash_core_components as dcc
+from dash import dcc
 import dash_html_components as html
 import plotly.express as px
 import pandas as pd
@@ -52,7 +52,7 @@ app.layout = html.Div([
         figure=fig
     )
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5BAthiN0htc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/5BAthiN0htc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ])
 
