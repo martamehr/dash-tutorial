@@ -4,8 +4,7 @@
 # visit http://127.0.0.1:8050/ in your web browser.
 
 import dash
-from dash import dcc
-from dash import html
+from dash import dcc, html
 import plotly.express as px
 import pandas as pd
 

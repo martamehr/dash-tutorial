@@ -1,6 +1,5 @@
 import dash
-from dash import dcc
-from dash import html
+from dash import dcc, html
 
 print(dcc.__version__) # 0.6.0 or above is required
 

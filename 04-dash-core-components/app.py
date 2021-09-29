@@ -4,8 +4,7 @@
 # visit http://127.0.0.1:8050/ in your web browser.
 
 import dash
-from dash import dcc
-from dash import html
+from dash import dcc, html
 # visit this site to see all component https://dash.plotly.com/dash-core-components
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
