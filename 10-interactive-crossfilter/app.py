@@ -1,5 +1,5 @@
 import dash
-import dash_core_components as dcc
+from dash import dcc
 import dash_html_components as html
 import numpy as np
 import pandas as pd
